@@ -1,0 +1,48 @@
+.banner
+{
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.9)), url("https://i.postimg.cc/QdNJ2vSc/pix5.jpg") no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    height: 100vh;
+}
+
+.headerText
+{
+    color: #fff;
+}
+
+.start
+{
+    background-color: #38E54D;
+    color: #fff;
+    margin-right: 2em;
+    width: 200px;
+    height: 40px;
+}
+.work
+{
+    background-color: #16325B;
+    color: #fff;
+    width: 200px;
+    height: 40px;
+}
+.card
+{
+    padding: 5%;
+    background-color: #fff;
+}
+.card button
+{
+    background-color: #38E54D;
+    color: #fff;
+    width: 400px;
+    height: 40px;
+}
+.card input
+{
+    background-color: #F5F5F5;
+    border: 2px solid #F5F5F5 ;
+    padding: 2%;
+}
+
